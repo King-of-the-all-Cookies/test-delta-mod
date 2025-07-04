@@ -1,6 +1,6 @@
 {
-  name: "Test Mod",
-  description: "It's a test mod",
-  author: "FILLDOR",
-  creation_date: "2025-07-05"
+  "name": "Test Mod",
+  "description": "It's a test mod",
+  "author": "FILLDOR",
+  "creation_date": "2025-07-05"
 }
